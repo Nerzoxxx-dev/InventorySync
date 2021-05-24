@@ -1,0 +1,6 @@
+name: InventorySync
+version: 1.0
+api: 3.0.0
+main: Nerzox\InventorySync\Loader
+author: Nerzox
+description: With this, the player's inventorys of your servers can be bound. 

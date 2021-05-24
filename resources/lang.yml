@@ -1,0 +1,2 @@
+enable-message: 'Plugin Enabled !' #The message who is sent when the plugin is enable.
+disable-message: 'Plugin Disabled !' #The message who is sent when the plugin is disable.

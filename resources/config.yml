@@ -1,0 +1,6 @@
+---
+mysql_host: '127.0.0.1' #The ip adress of the mysql host
+mysql_user: 'root' #The user for acces at the database
+mysql_password: '' #The user's password
+mysql_database: 'playerinventory' #The database where the tables and the datas are stocked
+...
